@@ -1,7 +1,7 @@
-##Elijah
-##Rebecca
-##Krishna
-##Geoffrey
+## Elijah
+## Rebecca
+## Krishna
+## Geoffrey
 
 **Project 1** *(Front End)*:
 - [x] Obtain a sample .c file

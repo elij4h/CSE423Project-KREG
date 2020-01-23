@@ -1,7 +1,7 @@
-Elijah
-Rebecca
-Krishna
-Geoffrey
+Elijah Orozco
+Rebecca Castillo
+Krishna Marentes
+Geoffrey Knox
 
 ### **Project 1** *(Front End)*:
 - [x] Obtain a sample .c file
